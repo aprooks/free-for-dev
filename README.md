@@ -19,6 +19,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
   * https://slack.com - Free for unlimited users with some feature limitations
   * https://hipchat.com - Free for unlimited users with some feature limitations
   * https://gitter.im - "Chat, for GitHub". Free for public rooms.
+  * https://kato.im - Free for unlimited users with some feature limitations
 
 ## Code Quality
 
@@ -123,7 +124,7 @@ If you're not inclined to make PRs you can tweet me at ```@ripienaar```
 ## Media services / Image processing 
 
    * http://cloudinary.com - Image upload, powerful manipulations, storage, and delivery for sites and apps, with libraries for Ruby, Python, Java, PHP, Objective-C and more. Perpetual free tier includes 7500 images/month, 2gb storage, 5gb bandwidth.
-
+s
 ## Docker Related
 ### Alternate container hosting
 
